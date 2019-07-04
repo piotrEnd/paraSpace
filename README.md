@@ -1,7 +1,17 @@
-# paraSpace
- outer space parallax experience 
- * handlers: mousemove, resize
- * random generator
- * scale, blur
+## paraSpace
+----
 
-visit at: https://piotrend.github.io/paraSpace
+**Design:**
+
+Universe is infinite so pay close attention to parallax experience. JS generates randomness in outer space. Depth correlates with scale and blur. As handlers mousemove and resize.
+
+Please >> [visit here](https://piotrend.github.io/paraSpace/) <<
+
+> *February, 2019*
+
+
+| technology stack  |
+| --- 		       |
+| HTML |
+| CSS |
+| vanilla js |
