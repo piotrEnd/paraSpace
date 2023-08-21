@@ -1,17 +1,21 @@
 ## paraSpace
 ----
 
+**Information architecture:**
+
+Universe is infinite, so direct your focus to the parallax experience here. Users engage with a webpage via mouse movement, causing elements to shift at different speeds, resulting in a dynamic and immersive visual experience. The parallax effect creates an illusion of depth.
+
 **Design:**
 
-Universe is infinite so pay close attention to parallax experience. JS generates randomness in outer space. Depth correlates with scale and blur. As handlers mousemove and resize.
+JavaScript generates randomness within the realm of outer space, where depth corresponds with scaling and blurring effects. The button in the middle, barely visible, becomes evident upon hovering. Clicking generates a new landscape.
 
 Please >> [visit here](https://piotrend.github.io/paraSpace/) <<
 
-> *February, 2019*
-
-
 | technology stack  |
+| --- 		       |
 | --- 		       |
 | HTML |
 | CSS |
 | vanilla js |
+
+> *February, 2019*
